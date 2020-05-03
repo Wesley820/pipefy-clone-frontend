@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/pipe_logo.png" />
+  <img src="./.github/pipe_logo.png" width="200" height="100"/>
 </p>
 
 <p align="center">
@@ -26,13 +26,20 @@
   <img src="./.github/app_photo.png" />
 </p>
 
-## Tech
+## Tecnologias
 
+- Node.js
 - React.js
 
 > Clone da interface do pipefy.
 
-## Development setup
+## Requisitos
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com/)
+
+## Ambiente de desenvolvimento
 
 ### Front-End
 
@@ -43,10 +50,10 @@
 
 - Dê um Fork neste repositório;
 - Crie uma branch para a nova funcionalidade: `git checkout -b nova-funcionalidade`;
-- Faça um commit na sua branch: `git commit -m 'feat: My feature'`;
-- Dê um push da sua branch: `git push origin my-feature`;
+- Faça um commit na sua branch: `git commit -m 'feat:nova-funcionalidade'`;
+- Dê um push da sua branch: `git push origin nova-funcionalidade`;
 
-Depois de concluir estes passos crie uma nova pull request e pronto!.
+Depois de concluir estes passos crie uma nova pull request e pronto!
 
 # License
 
